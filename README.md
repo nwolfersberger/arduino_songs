@@ -1,2 +1,4 @@
-# arduno_songs
-songs for arduino &amp; piezo
+# arduino_songs
+
+Playing around with transcribing songs for arduino.
+
